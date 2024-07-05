@@ -291,11 +291,11 @@ footer{
 }
 
 
-/* Media Query para Telas de 853px e 1280px */
+
 @media screen and (max-width: 1280px) and (min-width: 853px) {
     section {
         display: flex;
-        flex-direction: column; /* Garante que seja coluna */
-        align-items: center; /* Opcional: centralizar itens na coluna */
+        flex-direction: column; 
+        align-items: center; 
     }
 }
